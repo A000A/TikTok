@@ -1,4 +1,4 @@
-## TikTok JmThon
+## TikTok ‹ عـٰ̲ـہلـٰ̲ـہوٰشـٰ̲ـہ ،| 🕷️🇮🇶꙰̐̍̍̍̐̍̍̍̐̍̍̍̐̍̍̍̐̍̍̍̐̍̍̍̐̍̍̍ 𖤇
 ---
 
 بوت تيليجرام لتحميل الفيديوهات من التيك توك
@@ -11,7 +11,7 @@
 
 • توكن البوت
 
-[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/TikTok)
+[![التنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A000A/TikTok)
 
 #### المميزات:
 
@@ -32,9 +32,8 @@
 
 ## قناه سورس كود البوت:
 
-[![القناه](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/jmthon)
-[![الكروب](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/GROUPJmthon)
-
+[![القناه](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/VjljV)
+[![الكروب](https://img.shields.io/badge/TG-Group-30302f?style=flat&logo=telegram)](https://t.me/VjljV)
 
 #### LICENSE
 - GPLv3
